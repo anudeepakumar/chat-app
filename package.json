@@ -1,0 +1,25 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "Chat app with node using express, react, websocket node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anudeepakumar/chat-app.git"
+  },
+  "keywords": [
+    "chat",
+    "express",
+    "react",
+    "websocket"
+  ],
+  "author": "anudeepakumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anudeepakumar/chat-app/issues"
+  },
+  "homepage": "https://github.com/anudeepakumar/chat-app#readme"
+}
